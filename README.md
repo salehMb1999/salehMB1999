@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning ReactJs<br>💬 Ask me about tailwindcss - javascript<br>📫 How to reach me salehmirbagheri78@gmail.com<br>⚡ athlete - teacher - developer
+🌱<br>💬 Ask me about tailwindcss - javascript<br>📫 How to reach me salehmirbagheri78@gmail.com<br>⚡ athlete - teacher - developer
 
 
 ## 🌐 Socials:
